@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:jitsi_meet_flutter_sdk/jitsi_meet_flutter_sdk.dart';
 import 'package:zoom_clone/resources/auth_methods.dart';
 import 'package:zoom_clone/resources/jitsi_meet_methods.dart';
 import 'package:zoom_clone/utils/colors.dart';
