@@ -44,7 +44,7 @@ A Zoom-like video calling app built using **Flutter**, **Firebase**, and **Jitsi
 ## 📸 Screenshots
 
 <p align="center">
-  <img width="600" src="assets/images/screenshot.png" alt="App Screenshot">
+  <img width="1280" src="assets/images/screenshot.png" alt="App Screenshot">
 </p>
 
 ---
